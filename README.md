@@ -1,4 +1,4 @@
-<h1 align='center'>StormFN-Backend</h1>
+<h1 align='center'>ModFN-Backend</h1>
 
 <p align='center'>
     <a href='https://nodejs.org/en/download/' align='center'>
@@ -7,8 +7,7 @@
 </p>
 
 ## Information:
-- [Discord Server](https://discord.gg/stormfn)
-- [Website](https://storm-fn.dev/)
+- [Discord Server](https://dsc.gg/modfn)
 
 ## Installation:
 
