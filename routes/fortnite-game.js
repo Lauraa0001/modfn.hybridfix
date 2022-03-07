@@ -20,9 +20,9 @@ app.get('/content/api/pages/fortnite-game', async (req, res) => {
     //                tileImage: banner1024x512,
     //                hidden: false,
     //                videoMute: true,
-    //                tabTitleOverride: 'StormFN',
+    //                tabTitleOverride: 'ReviveFN',
     //                _type:  'CommonUI Simple Message MOTD',
-    //                title: 'StormFN',
+    //                title: 'ReviveFN',
     //                body: 'A fortnite hybrid server.',
     //                videoLoop: false,
     //                videoStreamingEnabled: false,
@@ -60,8 +60,8 @@ app.get('/content/api/pages/fortnite-game', async (req, res) => {
                 {
                     hidden: false,
                     _type: 'CommonUI Emergency Notice Base',
-                    title: 'Storm Update',
-                    body: 'You can now change your level and vbucks, using the bot in our discord server, have fun using Storm!',
+                    title: 'ReviveFN Update',
+                    body: 'Welcome To ReviveFN',
                 }
             ]
         },
@@ -81,10 +81,10 @@ app.get('/content/api/pages/fortnite-game', async (req, res) => {
                 tileImage: banner,
                 videoMute: false,
                 hidden: false,
-                tabTitleOverride: 'Storm',
+                tabTitleOverride: 'ReviveFN',
                 _type: 'CommonUI Simple Message MOTD',
-                title: 'Storm',
-                body: 'Storm is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Epic Games.',
+                title: 'ReviveFN',
+                body: 'ReviveFN is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Epic Games.',
                 videoLoop: false,
                 videoStreamingEnabled: false,
                 sortingPriority: 0,
@@ -111,12 +111,12 @@ app.get('/content/api/pages/fortnite-game', async (req, res) => {
         backgrounds: {
             backgrounds: [
                 {
-                    stage: 'winter19',
+                    stage: 'worldcup',
                     _type: 'DynamicBackground',
                     key: 'lobby'
                 },
                 {
-                    stage: 'winter19',
+                    stage: 'worldcup',
                     _type: 'DynamicBackground',
                     key: 'vault'
                 }
