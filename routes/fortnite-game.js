@@ -20,9 +20,9 @@ app.get('/content/api/pages/fortnite-game', async (req, res) => {
     //                tileImage: banner1024x512,
     //                hidden: false,
     //                videoMute: true,
-    //                tabTitleOverride: 'ReviveFN',
+    //                tabTitleOverride: 'FNBR Leaks',
     //                _type:  'CommonUI Simple Message MOTD',
-    //                title: 'ReviveFN',
+    //                title: 'FNBR Leaks',
     //                body: 'A fortnite hybrid server.',
     //                videoLoop: false,
     //                videoStreamingEnabled: false,
@@ -60,8 +60,8 @@ app.get('/content/api/pages/fortnite-game', async (req, res) => {
                 {
                     hidden: false,
                     _type: 'CommonUI Emergency Notice Base',
-                    title: 'ReviveFN Update',
-                    body: 'Welcome To ReviveFN',
+                    title: 'FNBR Leaks Update',
+                    body: 'Welcome To FNBR Leaks',
                 }
             ]
         },
@@ -81,10 +81,10 @@ app.get('/content/api/pages/fortnite-game', async (req, res) => {
                 tileImage: banner,
                 videoMute: false,
                 hidden: false,
-                tabTitleOverride: 'ReviveFN',
+                tabTitleOverride: 'FNBR Leaks',
                 _type: 'CommonUI Simple Message MOTD',
-                title: 'ReviveFN',
-                body: 'ReviveFN is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Epic Games.',
+                title: 'FNBR Leaks',
+                body: 'FNBR Leaks Was Made By Kaede#1337.',
                 videoLoop: false,
                 videoStreamingEnabled: false,
                 sortingPriority: 0,
@@ -92,7 +92,7 @@ app.get('/content/api/pages/fortnite-game', async (req, res) => {
                 videoAutoplay: false,
                 videoFullscreen: false,
                 spotlight: false,
-                websiteURL: 'https://discord.gg/stormfn',
+                websiteURL: 'https://discord.gg/skylinee',
                 websiteButtonText: 'Join the Discord'
             }]
         },
@@ -111,12 +111,12 @@ app.get('/content/api/pages/fortnite-game', async (req, res) => {
         backgrounds: {
             backgrounds: [
                 {
-                    stage: 'worldcup',
+                    stage: 'season18',
                     _type: 'DynamicBackground',
                     key: 'lobby'
                 },
                 {
-                    stage: 'worldcup',
+                    stage: 'season18',
                     _type: 'DynamicBackground',
                     key: 'vault'
                 }
