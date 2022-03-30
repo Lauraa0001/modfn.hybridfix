@@ -4,9 +4,9 @@ module.exports = {
     directory: __dirname,
     dir: __dirname,
     season_num: 19, // Update this whenever there is a new season.
-    banner: 'https://raw.githubusercontent.com/FBK45/Carbon/raw/main/uqujxr9mju581.jpg',
+    banner: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVHUpAx6BhjXN-T8AB_T_1TT4VQY1-V37t4A&usqp=CAU',
 
-    background: 'worldcup'
+    background: 'season18'
     /*
     worldcup - WorldCup
     winter19 - idk
